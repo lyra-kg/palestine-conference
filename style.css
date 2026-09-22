@@ -58,6 +58,7 @@ header nav a {
 
 .hero button:hover {
     background-color: #0e5a04;
+    color: white;
 }
 
 #about {
@@ -98,7 +99,7 @@ header nav a {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
     gap:20px;
-    margin-left: -30px;
+    margin-left: -80px;
 }
 
 #speakers h2 {
