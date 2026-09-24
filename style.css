@@ -183,6 +183,35 @@ footer p {
     font-size: 14px;
 }
 
+.favorite-btn {
+  background-color: #0e5a04;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.favorite-btn.is-favorite {
+  background-color: #922b21;
+}
+
+.form-message {
+  font-size: 14px;
+  text-align: left;
+}
+
+.form-message.error {
+  color: #922b21;
+}
+
+.form-message.success {
+  color: #0e5a04;
+}
+
+
 @media (max-width: 768px) {
     header {
         flex-direction: column;
