@@ -31,7 +31,7 @@ The site includes a hero section with a live countdown timer to the conference d
 
 ## Live Site
 
-[Add your GitHub Pages / Netlify / Vercel link here after publishing]
+  [ https://palestine-conference.vercel.app/] (https://palestine-conference.vercel.app/)
 
 ## Author
 
